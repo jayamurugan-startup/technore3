@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techtrove-3-tech-knights.onrender.com/sitemap.xml
